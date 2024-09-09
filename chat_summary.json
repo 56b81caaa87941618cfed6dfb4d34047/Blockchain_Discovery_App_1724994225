@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hello World'\", \"checked\": true}, {\"feature\": \"Include an animation when the button is pressed\", \"checked\": false}, {\"feature\": \"Allow users to customize button text\", \"checked\": false}, {\"feature\": \"Change button color upon hover\", \"checked\": false}, {\"feature\": \"Add a tooltip that explains button function\", \"checked\": false}], \"input_token_count\": 247, \"output_token_count\": 95, \"time_taken\": \"0:00:01.711060\"}",
+        "timestamp": "09092024131215",
+        "message_id": "guest09092024131133"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you envision for the 'Hello World' button (e.g., color, size, font)?\", \"option1\": \"I want it to be bold and bright.\", \"option2\": \"I prefer a minimalist and simple design.\"}, {\"question 2\": \"Where would you like the button to be positioned within the app (e.g., top, bottom, center)?\", \"option1\": \"I want it at the top of the screen.\", \"option2\": \"It should be at the center of the screen.\"}], \"input_token_count\": 293, \"output_token_count\": 124, \"time_taken\": \"0:00:01.407313\"}",
         "timestamp": "09092024131206",
