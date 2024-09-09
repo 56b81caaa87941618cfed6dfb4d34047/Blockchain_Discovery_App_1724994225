@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "user",
+        "content": "add a button that says hey there",
+        "timestamp": "09092024131506",
+        "message_id": "guest09092024131505"
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hello World'\", \"checked\": true}, {\"feature\": \"Include an animation when the button is pressed\", \"checked\": false}, {\"feature\": \"Allow users to customize button text\", \"checked\": false}, {\"feature\": \"Change button color upon hover\", \"checked\": false}, {\"feature\": \"Add a tooltip that explains button function\", \"checked\": false}], \"input_token_count\": 247, \"output_token_count\": 95, \"time_taken\": \"0:00:01.711060\"}",
         "timestamp": "09092024131215",
