@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you envision for the 'Hello World' button (e.g., color, size, font)?\", \"option1\": \"I want it to be bold and bright.\", \"option2\": \"I prefer a minimalist and simple design.\"}, {\"question 2\": \"Where would you like the button to be positioned within the app (e.g., top, bottom, center)?\", \"option1\": \"I want it at the top of the screen.\", \"option2\": \"It should be at the center of the screen.\"}], \"input_token_count\": 293, \"output_token_count\": 124, \"time_taken\": \"0:00:01.407313\"}",
+        "timestamp": "09092024131206",
+        "message_id": "guest09092024131133"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm adding a button that says \"Hello World.\"",
         "timestamp": "09092024131134",
