@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hey There'\", \"checked\": true}, {\"feature\": \"Implement a tooltip for the button explaining its purpose\", \"checked\": false}, {\"feature\": \"Add a button click animation (e.g., scale effect)\", \"checked\": false}, {\"feature\": \"Include a hover effect for the button\", \"checked\": false}, {\"feature\": \"Create a success message modal that appears when the button is clicked\", \"checked\": false}], \"input_token_count\": 271, \"output_token_count\": 108, \"time_taken\": \"0:00:01.888250\"}",
+        "message_id": "guest09092024131505",
+        "timestamp": "09092024131528",
+        "component_file_name": "simple_cta_component_1724994227",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hey there' button to be positioned in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What color and style do you envision for the 'Hey there' button?\", \"option1\": \"Bright color with rounded edges\", \"option2\": \"Muted color with sharp edges\"}], \"input_token_count\": 317, \"output_token_count\": 98, \"time_taken\": \"0:00:01.908128\"}",
         "message_id": "guest09092024131505",
